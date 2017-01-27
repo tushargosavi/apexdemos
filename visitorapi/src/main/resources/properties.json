@@ -1,0 +1,10 @@
+{
+  "operators": {
+    "Input": {
+      "directory": "/user/tushar/data"
+    },
+    "Splitter": {
+      "regex": ", ."
+    }
+  }
+}
